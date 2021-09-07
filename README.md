@@ -1,6 +1,6 @@
 # Pokémon App
 
-Aplicativo construindo seguindo o tutorial [Consume a Pokemon API in Rails](https://www.youtube.com/watch?v=NXg3oE5JMm0)
+Aplicativo construido seguindo o tutorial [Consume a Pokemon API in Rails](https://www.youtube.com/watch?v=NXg3oE5JMm0)
 
 # Instalação 
 ```
