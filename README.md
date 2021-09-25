@@ -15,10 +15,10 @@ Entre em  [http://127.0.0.1:3000](http://127.0.0.1:3000).
 # Instalação via Docker
 ```
 sudo chown -R $USER:$USER .
-docker-compose run --no-deps web rails new . --force --database=postgresql
-docker-compose run web bundle exec rake db:{create,migrate}
-docker-compose up --build
-docker-compose up 
+sudo docker-compose run --no-deps web rails new . --force --database=postgresql
+sudo docker-compose run web bundle exec rake db:{create,migrate}
+sudo docker-compose up --build
+sudo docker-compose up 
 Entre em  [http://127.0.0.1:3000](http://127.0.0.1:3000).
 
 ```
